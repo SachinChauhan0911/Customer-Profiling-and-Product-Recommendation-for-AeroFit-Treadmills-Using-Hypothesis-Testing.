@@ -1,22 +1,10 @@
-# Aerofit---Descriptive-Statistics
+# Project Title:
+Customer Profiling and Product Recommendation for AeroFit Treadmills Using Descriptive Analytics and Hypothesis Testing
 
-About Aerofit
-
-Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
-
-
-Business Problem
-
-The market research team at AeroFit wants to identify the characteristics of the target audience for each type of treadmill offered by the company, to provide a better recommendation of the treadmills to the new customers. The team decides to investigate whether there are differences across the product with respect to customer characteristics.
-
-    Performed descriptive analytics to create a customer profile for each AeroFit treadmill product by developing appropriate tables and charts.
-    For each AeroFit treadmill product, construct two-way contingency tables and compute all conditional and marginal probabilities along with their insights/impact on the business.
-
-Dataset
+# Problem Statement:
+AeroFit, a leading fitness equipment brand, aims to identify the characteristics of its target audience for each type of treadmill (KP281, KP481, and KP781). The goal is to provide better product recommendations for new customers based on customer profiles. The analysis focuses on customer demographics, product usage, and fitness levels, while investigating whether significant differences exist across treadmill products with respect to customer characteristics.
 
 The company collected the data on individuals who purchased a treadmill from the AeroFit stores during the prior three months. The dataset has the following features:
-
-Dataset link: Aerofit_treadmill.csv
 Product Purchased: 	KP281, KP481, or KP781
 Age: 	In years
 Gender: 	Male/Female
@@ -27,11 +15,17 @@ Income: 	Annual income (in $)
 Fitness: 	Self-rated fitness on a 1-to-5 scale, where 1 is the poor shape and 5 is the excellent shape.
 Miles: 	The average number of miles the customer expects to walk/run each week
 
-Product Portfolio:
+# Approach:
 
-    The KP281 is an entry-level treadmill that sells for $1,500.
-    The KP481 is for mid-level runners that sell for $1,750.
-    The KP781 treadmill is having advanced features that sell for $2,500.
+- Exploratory Data Analysis (EDA): Analyze customer demographics (age, gender, income, education, marital status) and treadmill usage metrics (fitness level, weekly usage, expected miles).
+- Descriptive Analytics: Use charts (countplots, histograms, boxplots) to visualize relationships between variables and detect trends.
+- Hypothesis Testing: Apply hypothesis testing to determine if customer characteristics (e.g., age, gender, marital status) significantly impact the choice of treadmill.
+- Probability Analysis: Construct two-way contingency tables, compute marginal and conditional probabilities for product purchases.
+- Correlation Analysis: Assess relationships among variables using heatmaps and pairplots.
+- Customer Profiling: Create customer profiles based on key characteristics to assist in product recommendations.
+
+# Potential Impact:
+The analysis provides insights into the distinct customer segments for each treadmill, helping AeroFit optimize its marketing strategies, improve customer targeting, and enhance product recommendations. Additionally, understanding how customer demographics and fitness levels influence product choice allows AeroFit to make data-driven decisions to increase sales and customer satisfaction.
 
 
-Later on, we will see more ways to do “customer segmentation”, but this case study in itself is relevant in some real-world scenarios.
+
