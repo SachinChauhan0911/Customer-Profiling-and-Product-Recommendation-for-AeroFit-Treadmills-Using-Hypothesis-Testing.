@@ -30,6 +30,48 @@ The analysis provides insights into the distinct customer segments for each trea
 # Product Sales Distribution:
 ![text](https://github.com/SachinChauhan0911/Customer-Profiling-and-Product-Recommendation-for-AeroFit-Treadmills-Using-Hypothesis-Testing./blob/main/images/Screenshot%202024-10-27%20at%208.08.28%20AM.png)
 
+# Customer Profiling and Recommendation:
+## Customer Profiling - 
+
+- Probability of purchase of KP281 = 44%
+- Probability of purchase of KP481 = 33%
+- Probability of purchase of KP781 = 22%
+  
+### Customer Profile for KP281 Treadmill:
+- Age of customer mainly between 18 to 35 years with few between 35 to 50 years
+- Education level of customer 13 years and above
+- Annual Income of customer below USD 60,000
+- Weekly Usage - 2 to 4 times
+- Fitness Scale - 2 to 4
+- Weekly Running Mileage - 50 to 100 miles
+  
+### Customer Profile for KP481 Treadmill:
+- Age of customer mainly between 18 to 35 years with few between 35 to 50 years
+- Education level of customer 13 years and above
+- Annual Income of customer between USD 40,000 to USD 80,000
+- Weekly Usage - 2 to 4 times
+- Fitness Scale - 2 to 4
+- Weekly Running Mileage - 50 to 200 miles
+  
+### Customer Profile for KP781 Treadmill:
+- Age of customer between 18 to 35 years
+- Education level of customer 15 years and above
+- Annual Income of customer USD 80,000 and above
+- Weekly Usage - 4 to 7 times
+- Fitness Scale - 3 to 5
+- Weekly Running Mileage - 100 miles and above
+  
+## Recommendations:
+
+### Marketing Campaigns for KP781:
+- The KP784 model exhibits a significant sales disparity in terms of gender, with only 18% of total sales attributed to female customers. To enhance this metric, it is recommended to implement targeted strategies such as offering special promotions and trials exclusively designed for the female customers.
+
+### Affordable Pricing and Payment Plans:
+- Given the target customer's age, education level, and income, it's important to offer the KP281 and KP481 Treadmill at an affordable price point. Additionally, consider providing flexible payment plans that allow customers to spread the cost over several months. This can make the treadmill more accessible to customers with varying budgets.
+
+### User-Friendly App Integration:
+- Create a user-friendly app that syncs with the treadmill. This app could track users' weekly running mileage, provide real-time feedback on their progress, and offer personalized recommendations for workouts based on their fitness scale and goals.This can enhance the overall treadmill experience and keep users engaged.
+
 
 
 
