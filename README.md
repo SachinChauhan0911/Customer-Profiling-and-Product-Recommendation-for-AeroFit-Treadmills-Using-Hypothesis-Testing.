@@ -27,6 +27,8 @@ Miles: 	The average number of miles the customer expects to walk/run each week
 # Potential Impact:
 The analysis provides insights into the distinct customer segments for each treadmill, helping AeroFit optimize its marketing strategies, improve customer targeting, and enhance product recommendations. Additionally, understanding how customer demographics and fitness levels influence product choice allows AeroFit to make data-driven decisions to increase sales and customer satisfaction.
 
+# Product Sales Distribution:
+![text](https://github.com/SachinChauhan0911/Customer-Profiling-and-Product-Recommendation-for-AeroFit-Treadmills-Using-Hypothesis-Testing./blob/main/images/Screenshot%202024-10-27%20at%208.08.28%20AM.png)
 
 
 
